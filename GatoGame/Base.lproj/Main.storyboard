@@ -148,7 +148,7 @@
                                                     <stackView opaque="NO" contentMode="scaleToFill" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="Dfk-oq-bj2" userLabel="SV PC">
                                                         <rect key="frame" x="0.0" y="51.666666666666657" width="164" height="20.333333333333329"/>
                                                         <subviews>
-                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" text="iPhone :    " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jda-45-7fW">
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" text="IA App  :" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jda-45-7fW">
                                                                 <rect key="frame" x="0.0" y="0.0" width="143.66666666666666" height="20.333333333333332"/>
                                                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                                                 <nil key="textColor"/>
@@ -190,7 +190,7 @@
                                                     <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="1" translatesAutoresizingMaskIntoConstraints="NO" id="bYL-kd-tde">
                                                         <rect key="frame" x="0.0" y="0.0" width="302" height="100"/>
                                                         <subviews>
-                                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ex" translatesAutoresizingMaskIntoConstraints="NO" id="VIQ-b9-ZTv">
+                                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fondo blanco" translatesAutoresizingMaskIntoConstraints="NO" id="VIQ-b9-ZTv">
                                                                 <rect key="frame" x="0.0" y="0.0" width="100" height="100"/>
                                                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                 <color key="tintColor" systemColor="systemTealColor"/>
@@ -201,10 +201,12 @@
                                                             </imageView>
                                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fondo blanco" translatesAutoresizingMaskIntoConstraints="NO" id="1py-7Y-efq">
                                                                 <rect key="frame" x="101" y="0.0" width="100" height="100"/>
+                                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                 <color key="tintColor" systemColor="systemTealColor"/>
                                                             </imageView>
                                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fondo blanco" translatesAutoresizingMaskIntoConstraints="NO" id="0eC-DY-Scv">
                                                                 <rect key="frame" x="202" y="0.0" width="100" height="100"/>
+                                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                 <color key="tintColor" systemColor="systemTealColor"/>
                                                             </imageView>
                                                         </subviews>
@@ -214,10 +216,12 @@
                                                         <subviews>
                                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fondo blanco" translatesAutoresizingMaskIntoConstraints="NO" id="GLe-kk-euv">
                                                                 <rect key="frame" x="0.0" y="0.0" width="100" height="100"/>
+                                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                 <color key="tintColor" systemColor="systemTealColor"/>
                                                             </imageView>
                                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fondo blanco" translatesAutoresizingMaskIntoConstraints="NO" id="cKD-a2-0ac">
                                                                 <rect key="frame" x="101" y="0.0" width="100" height="100"/>
+                                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                 <color key="tintColor" systemColor="systemTealColor"/>
                                                                 <constraints>
                                                                     <constraint firstAttribute="width" constant="100" id="W0Q-g9-nWm"/>
@@ -226,6 +230,7 @@
                                                             </imageView>
                                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fondo blanco" translatesAutoresizingMaskIntoConstraints="NO" id="OVV-tb-FGj">
                                                                 <rect key="frame" x="202" y="0.0" width="100" height="100"/>
+                                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                 <color key="tintColor" systemColor="systemTealColor"/>
                                                             </imageView>
                                                         </subviews>
@@ -235,14 +240,17 @@
                                                         <subviews>
                                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fondo blanco" translatesAutoresizingMaskIntoConstraints="NO" id="vXx-7C-eTQ">
                                                                 <rect key="frame" x="0.0" y="0.0" width="100" height="100"/>
+                                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                 <color key="tintColor" systemColor="systemTealColor"/>
                                                             </imageView>
                                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fondo blanco" translatesAutoresizingMaskIntoConstraints="NO" id="5a3-Yw-vmR">
                                                                 <rect key="frame" x="101" y="0.0" width="100" height="100"/>
+                                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                 <color key="tintColor" systemColor="systemTealColor"/>
                                                             </imageView>
                                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fondo blanco" translatesAutoresizingMaskIntoConstraints="NO" id="Rp9-0x-fbX" userLabel="Caja9">
                                                                 <rect key="frame" x="202" y="0.0" width="100" height="100"/>
+                                                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                                 <color key="tintColor" systemColor="systemTealColor"/>
                                                             </imageView>
                                                         </subviews>
@@ -290,7 +298,7 @@
                         <outlet property="caja7" destination="vXx-7C-eTQ" id="6zY-BL-t7I"/>
                         <outlet property="caja8" destination="5a3-Yw-vmR" id="TAJ-C5-zQs"/>
                         <outlet property="caja9" destination="Rp9-0x-fbX" id="EC6-Sc-y3w"/>
-                        <outlet property="marcadorJugadorLbl" destination="pc1-B4-iIb" id="9hh-vq-1KY"/>
+                        <outlet property="marcadorJugadorLbl" destination="p73-dW-q1k" id="BUr-Nk-Tvp"/>
                         <outlet property="marcadorPcLbl" destination="pc1-B4-iIb" id="J3L-QG-v0O"/>
                         <outlet property="nombreJugadorLbl" destination="F16-dq-e5d" id="fC0-9f-ggH"/>
                     </connections>
@@ -302,7 +310,6 @@
     </scenes>
     <resources>
         <image name="arrowshape.turn.up.backward.circle.fill" catalog="system" width="128" height="121"/>
-        <image name="ex" width="50" height="50"/>
         <image name="fondo" width="626" height="417"/>
         <image name="fondo blanco" width="2633" height="1542"/>
         <systemColor name="systemBackgroundColor">
